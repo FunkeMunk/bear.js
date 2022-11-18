@@ -1,2 +1,2 @@
 # bear.js
-barebone and lightweight frontend framework
+opensource bear-bone JavaScript framework
