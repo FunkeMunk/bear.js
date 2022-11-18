@@ -3,9 +3,8 @@ opensource bear-bone JavaScript framework featuring revolutionary client side st
 Made for speed and minimalism. Our mission is to provide the best performance and finally create the perfect JavaScript framework.
 
 
-#Quickstart
+# Quickstart
 
-    * clone this repo locally
-    * run npm install & npm run build
-    * and you're good to go!
-    * go name us proud!
+    * Clone this repo locally
+    * And you're good to go!
+    * Make us proud!
