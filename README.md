@@ -2,7 +2,7 @@
 
 :zap:Super fast:zap:
 :hourglass:Easy To Learn:hourglass:
-:fire:has a cool logo:fire:
+:fire:Has A Cool Logo:fire:
 
 ---
 
