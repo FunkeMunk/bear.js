@@ -13,6 +13,6 @@ Made for speed and minimalism. Our mission is to provide the best performance an
 
 ### Quickstart
 
-    * Clone this repo locally
+    * Clone this repo
     * And you're good to go!
     * Make us proud!
